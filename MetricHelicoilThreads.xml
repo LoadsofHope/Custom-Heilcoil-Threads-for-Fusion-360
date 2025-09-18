@@ -6,10 +6,26 @@
   <Angle>60</Angle>
   <SortOrder>3</SortOrder>
   <ThreadSize>
+    <Size>3.00(M4)</Size>
+    <Designation>
+      <ThreadDesignation>M3x.5 Heli</ThreadDesignation>
+      <CTD>M3x.5 Heli</CTD>
+      <Pitch>.7</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>3.89</MajorDia>
+        <PitchDia>3.54</PitchDia>
+        <MinorDia>3.30</MinorDia>
+        <TapDrill>3</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
     <Size>4.00(M4)</Size>
     <Designation>
-      <ThreadDesignation>M4x.07 Heli</ThreadDesignation>
-      <CTD>M4x.07 Heli</CTD>
+      <ThreadDesignation>M4x.7 Heli</ThreadDesignation>
+      <CTD>M4x.7 Heli</CTD>
       <Pitch>.7</Pitch>
       <Thread>
         <Gender>internal</Gender>
@@ -22,98 +38,50 @@
     </Designation>
   </ThreadSize>
   <ThreadSize>
-    <Size>0.138(#6)</Size>
+    <Size>5.00(M5)</Size>
     <Designation>
-      <ThreadDesignation>6-32 Heli</ThreadDesignation>
-      <CTD>6-32 Heli</CTD>
-      <TPI>32.0</TPI>
+      <ThreadDesignation>M5x.8 Heli</ThreadDesignation>
+      <CTD>M5x.8 Heli</CTD>
+      <Pitch>.8</Pitch>
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>0.190</MajorDia>
-        <PitchDia>0.169</PitchDia>
-        <MinorDia>0.159</MinorDia>
-        <TapDrill>0.159</TapDrill>
+        <MajorDia>6.44</MajorDia>
+        <PitchDia>5.86</PitchDia>
+        <MinorDia>5.47</MinorDia>
+        <TapDrill>5.00</TapDrill>
       </Thread>
     </Designation>
   </ThreadSize>
   <ThreadSize>
-    <Size>0.164(#8)</Size>
+    <Size>6.00(M6)</Size>
     <Designation>
-      <ThreadDesignation>8-32 Heli</ThreadDesignation>
-      <CTD>8-32 Heli</CTD>
-      <TPI>32.0</TPI>
+      <ThreadDesignation>M6x1 Heli</ThreadDesignation>
+      <CTD>M6x1 Heli</CTD>
+      <Pitch>1</Pitch>
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>0.207</MajorDia>
-        <PitchDia>0.196</PitchDia>
-        <MinorDia>0.186</MinorDia>
-        <TapDrill>0.186</TapDrill>
+        <MajorDia>7.79</MajorDia>
+        <PitchDia>7.07</PitchDia>
+        <MinorDia>6.61</MinorDia>
+        <TapDrill>6.00</TapDrill>
       </Thread>
     </Designation>
 </ThreadSize>
   <ThreadSize>
-    <Size>0.190(#10)</Size>
+    <Size>8.00(M8)</Size>
     <Designation>
-      <ThreadDesignation>10-24 Heli</ThreadDesignation>
-      <CTD>10-24 Heli</CTD>
-      <TPI>24.0</TPI>
+      <ThreadDesignation>M8x1.25 Heli</ThreadDesignation>
+      <CTD>M8x1.25 Heli</CTD>
+      <Pitch>1.25</Pitch>
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>0.259</MajorDia>
-        <PitchDia>0.231</PitchDia>
-        <MinorDia>0.218</MinorDia>
-        <TapDrill>0.218</TapDrill>
-      </Thread>
-    </Designation>
-</ThreadSize>
-  <ThreadSize>
-    <Size>0.250</Size>
-    <Designation>
-      <ThreadDesignation>1/4-20 Heli</ThreadDesignation>
-      <CTD>1/4-20 Heli</CTD>
-      <TPI>20.0</TPI>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>3B</Class>
-        <MajorDia>0.333</MajorDia>
-        <PitchDia>0.300</PitchDia>
-        <MinorDia>0.283</MinorDia>
-        <TapDrill>0.283</TapDrill>
-      </Thread>
-    </Designation>
-</ThreadSize>
-  <ThreadSize>
-    <Size>0.312</Size>
-    <Designation>
-      <ThreadDesignation>5/16-18 Heli</ThreadDesignation>
-      <CTD>5/16-18 Heli</CTD>
-      <TPI>18.0</TPI>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>3B</Class>
-        <MajorDia>0.407</MajorDia>
-        <PitchDia>0.369</PitchDia>
-        <MinorDia>0.350</MinorDia>
-        <TapDrill>0.350</TapDrill>
-      </Thread>
-    </Designation>
-</ThreadSize>
-  <ThreadSize>
-    <Size>0.375</Size>
-    <Designation>
-      <ThreadDesignation>3/8-16 Heli</ThreadDesignation>
-      <CTD>3/8-16 Heli</CTD>
-      <TPI>16.0</TPI>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>3B</Class>
-        <MajorDia>0.483</MajorDia>
-        <PitchDia>0.441</PitchDia>
-        <MinorDia>0.417</MinorDia>
-        <TapDrill>0.417</TapDrill>
+        <MajorDia>10.26</MajorDia>
+        <PitchDia>9.35</PitchDia>
+        <MinorDia>8.72</MinorDia>
+        <TapDrill>8.00</TapDrill>
       </Thread>
     </Designation>
 </ThreadSize>
