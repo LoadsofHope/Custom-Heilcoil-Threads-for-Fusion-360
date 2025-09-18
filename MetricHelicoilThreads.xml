@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Metric Helicoil Threads</Name>
+  <CustomName>Metric Helicoil Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>60</Angle>
+  <SortOrder>3</SortOrder>
+  <ThreadSize>
+    <Size>4.00(M4)</Size>
+    <Designation>
+      <ThreadDesignation>M4x.07 Heli</ThreadDesignation>
+      <CTD>M4x.07 Heli</CTD>
+      <Pitch>.7</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>5.257</MajorDia>
+        <PitchDia>4.755</PitchDia>
+        <MinorDia>4.508</MinorDia>
+        <TapDrill>4.5</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
+    <Size>0.138(#6)</Size>
+    <Designation>
+      <ThreadDesignation>6-32 Heli</ThreadDesignation>
+      <CTD>6-32 Heli</CTD>
+      <TPI>32.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.190</MajorDia>
+        <PitchDia>0.169</PitchDia>
+        <MinorDia>0.159</MinorDia>
+        <TapDrill>0.159</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
+    <Size>0.164(#8)</Size>
+    <Designation>
+      <ThreadDesignation>8-32 Heli</ThreadDesignation>
+      <CTD>8-32 Heli</CTD>
+      <TPI>32.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.207</MajorDia>
+        <PitchDia>0.196</PitchDia>
+        <MinorDia>0.186</MinorDia>
+        <TapDrill>0.186</TapDrill>
+      </Thread>
+    </Designation>
+</ThreadSize>
+  <ThreadSize>
+    <Size>0.190(#10)</Size>
+    <Designation>
+      <ThreadDesignation>10-24 Heli</ThreadDesignation>
+      <CTD>10-24 Heli</CTD>
+      <TPI>24.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.259</MajorDia>
+        <PitchDia>0.231</PitchDia>
+        <MinorDia>0.218</MinorDia>
+        <TapDrill>0.218</TapDrill>
+      </Thread>
+    </Designation>
+</ThreadSize>
+  <ThreadSize>
+    <Size>0.250</Size>
+    <Designation>
+      <ThreadDesignation>1/4-20 Heli</ThreadDesignation>
+      <CTD>1/4-20 Heli</CTD>
+      <TPI>20.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.333</MajorDia>
+        <PitchDia>0.300</PitchDia>
+        <MinorDia>0.283</MinorDia>
+        <TapDrill>0.283</TapDrill>
+      </Thread>
+    </Designation>
+</ThreadSize>
+  <ThreadSize>
+    <Size>0.312</Size>
+    <Designation>
+      <ThreadDesignation>5/16-18 Heli</ThreadDesignation>
+      <CTD>5/16-18 Heli</CTD>
+      <TPI>18.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.407</MajorDia>
+        <PitchDia>0.369</PitchDia>
+        <MinorDia>0.350</MinorDia>
+        <TapDrill>0.350</TapDrill>
+      </Thread>
+    </Designation>
+</ThreadSize>
+  <ThreadSize>
+    <Size>0.375</Size>
+    <Designation>
+      <ThreadDesignation>3/8-16 Heli</ThreadDesignation>
+      <CTD>3/8-16 Heli</CTD>
+      <TPI>16.0</TPI>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3B</Class>
+        <MajorDia>0.483</MajorDia>
+        <PitchDia>0.441</PitchDia>
+        <MinorDia>0.417</MinorDia>
+        <TapDrill>0.417</TapDrill>
+      </Thread>
+    </Designation>
+</ThreadSize>
+</ThreadType>
