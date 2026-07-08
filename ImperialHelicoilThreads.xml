@@ -101,20 +101,4 @@
       </Thread>
     </Designation>
 </ThreadSize>
-<ThreadSize>
-    <Size>0.375</Size>
-    <Designation>
-      <ThreadDesignation>3/8-16 Heli</ThreadDesignation>
-      <CTD>3/8-16 Heli</CTD>
-      <TPI>16.0</TPI>
-      <Thread>
-        <Gender>internal</Gender>
-        <Class>3B</Class>
-        <MajorDia>0.483</MajorDia>
-        <PitchDia>0.451</PitchDia>
-        <MinorDia>0.429</MinorDia>
-        <TapDrill>0.417</TapDrill>
-      </Thread>
-    </Designation>
-</ThreadSize>
 </ThreadType>
