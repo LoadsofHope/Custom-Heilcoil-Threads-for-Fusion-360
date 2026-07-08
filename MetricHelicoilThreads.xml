@@ -6,17 +6,17 @@
   <Angle>60</Angle>
   <SortOrder>3</SortOrder>
   <ThreadSize>
-    <Size>3.00(M4)</Size>
+    <Size>3.00(M3)</Size>
     <Designation>
       <ThreadDesignation>M3x.5 Heli</ThreadDesignation>
       <CTD>M3x.5 Heli</CTD>
-      <Pitch>.7</Pitch>
+      <Pitch>.5</Pitch>
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
         <MajorDia>3.89</MajorDia>
-        <PitchDia>3.54</PitchDia>
-        <MinorDia>3.30</MinorDia>
+        <PitchDia>3.575</PitchDia>
+        <MinorDia>3.359</MinorDia>
         <TapDrill>3</TapDrill>
       </Thread>
     </Designation>
@@ -31,8 +31,8 @@
         <Gender>internal</Gender>
         <Class>3B</Class>
         <MajorDia>5.257</MajorDia>
-        <PitchDia>4.755</PitchDia>
-        <MinorDia>4.508</MinorDia>
+        <PitchDia>4.802</PitchDia>
+        <MinorDia>4.499</MinorDia>
         <TapDrill>4.5</TapDrill>
       </Thread>
     </Designation>
@@ -46,9 +46,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>6.44</MajorDia>
-        <PitchDia>5.86</PitchDia>
-        <MinorDia>5.47</MinorDia>
+        <MajorDia>6.45</MajorDia>
+        <PitchDia>5.93</PitchDia>
+        <MinorDia>5.58</MinorDia>
         <TapDrill>5.00</TapDrill>
       </Thread>
     </Designation>
@@ -63,8 +63,8 @@
         <Gender>internal</Gender>
         <Class>3B</Class>
         <MajorDia>7.79</MajorDia>
-        <PitchDia>7.07</PitchDia>
-        <MinorDia>6.61</MinorDia>
+        <PitchDia>7.14</PitchDia>
+        <MinorDia>6.707</MinorDia>
         <TapDrill>6.00</TapDrill>
       </Thread>
     </Designation>
@@ -79,8 +79,8 @@
         <Gender>internal</Gender>
         <Class>3B</Class>
         <MajorDia>10.26</MajorDia>
-        <PitchDia>9.35</PitchDia>
-        <MinorDia>8.72</MinorDia>
+        <PitchDia>9.458</PitchDia>
+        <MinorDia>8.917</MinorDia>
         <TapDrill>8.00</TapDrill>
       </Thread>
     </Designation>
