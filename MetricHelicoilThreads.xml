@@ -14,9 +14,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>3.89</MajorDia>
-        <PitchDia>3.565</PitchDia>
-        <MinorDia>3.349</MinorDia>
+        <MajorDia>3.9</MajorDia>
+        <PitchDia>3.575</PitchDia>
+        <MinorDia>3.359</MinorDia>
         <TapDrill>3</TapDrill>
       </Thread>
     </Designation>
@@ -46,9 +46,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>3B</Class>
-        <MajorDia>6.45</MajorDia>
-        <PitchDia>5.93</PitchDia>
-        <MinorDia>5.58</MinorDia>
+        <MajorDia>6.447</MajorDia>
+        <PitchDia>5.927</PitchDia>
+        <MinorDia>5.581</MinorDia>
         <TapDrill>5.00</TapDrill>
       </Thread>
     </Designation>
